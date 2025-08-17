@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, eu sou o Tiago Teixeira
 
-<!--
-**TiagoTeixeira-2005/TiagoTeixeira-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudante de Engenharia de Software 
+- 💻 Atualmente aprendendo C++ e Python
+- 🙋‍♂️ Pronomes: ele/dele
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=TiagoTeixeira-2005&theme=radical&show_icons=true&text_color=FFFFFF">
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoTeixeira-2005&layout=compact&theme=radical&text_color=FFFFFF">
+</div>
+
+##
+
+<div>
+  <img align="center" alt="Thiago-C" src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Thiago-C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img align="center" alt="Thiago-Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Thiago-HTML5" src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Thiago-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+
